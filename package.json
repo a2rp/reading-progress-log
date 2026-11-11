@@ -2,6 +2,7 @@
     "name":  "reading-progress-log",
     "private":  true,
     "version":  "1.0.0",
+    "description":  "Local-first reading log for tracking books, page counts, and reading status",
     "type":  "module",
     "homepage":  "https://a2rp.github.io/reading-progress-log",
     "scripts":  {
